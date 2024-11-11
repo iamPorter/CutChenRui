@@ -1,6 +1,6 @@
 <h1 align="center">CutChenRui 睿 果 忍 者</h1>
 
-基于水果忍者的JavaScript乳睿游戏 请打开声音  
+基于水果忍者的 JavaScript 乳睿游戏 请打开声音  
 ~~游玩链接由于被精神股东舔睿批小将大量举报导致QQ无法打开  
 请复制链接到浏览器中打开~~
 
